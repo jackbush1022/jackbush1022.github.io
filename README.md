@@ -1,3 +1,4 @@
-# jackbush1022.github.io
-Site
-<p>Hi!</p>
+<p>Hello!</p>
+p {
+  color: green;
+}
